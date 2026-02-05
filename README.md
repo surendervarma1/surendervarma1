@@ -1,7 +1,4 @@
-<!--
-README.md — GitHub Profile (Pro / Optimized)
-Replace placeholders like YOUR_LINK, YOUR_USERNAME, etc.
--->
+
 
 <h1 align="center">Hi 👋, I'm Surender Varma Bollampally</h1>
 <h3 align="center">M.S. Computer Engineering @ San Diego State University </h3>
