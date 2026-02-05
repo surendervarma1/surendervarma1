@@ -42,7 +42,7 @@
   <text x="88" y="152"
         font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial"
         font-size="22" font-weight="600" fill="#334155">
-    M.S. Computer Engineering @ SDSU • Edge/IoT • Databases • Continual Learning
+    M.S. Computer Engineering @ SDSU • Edge/IoT • Databases • Machine Learning
   </text>
 
   <rect x="88" y="176" width="360" height="10" rx="5" fill="url(#accent)"/>
