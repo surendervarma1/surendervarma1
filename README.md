@@ -1,7 +1,10 @@
 
-
-<h1 align="center">Hi 👋, I'm Surender Varma Bollampally</h1>
-<h3 align="center">M.S. Computer Engineering @ San Diego State University </h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img src="assets/header-light.svg" width="100%">
+  </picture>
+</p>
 
 <p align="center">
   <a href="mailto:surendervarma.us@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-surendervarma.us%40gmail.com-informational?style=flat&logo=gmail&logoColor=white"></a>
