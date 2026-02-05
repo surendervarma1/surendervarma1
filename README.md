@@ -1,30 +1,115 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<!--
+README.md — GitHub Profile (Pro / Optimized)
+Replace placeholders like YOUR_LINK, YOUR_USERNAME, etc.
+-->
+
 <h1 align="center">Hi 👋, I'm Surender Varma Bollampally</h1>
-<h3 align="center">A Masters student in SDSU</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">M.S. Computer Engineering @ San Diego State University </h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surendervarma1&label=Profile%20views&color=0e75b6&style=flat" alt="surendervarma1" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **React Native and Javascript**
-
-- 💬 Ask me about **Website development**
-
-- 📫 How to reach me **surendervarma.us@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/surender varmabollampally" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surender varmabollampally" height="30" width="40" /></a>
-<a href="https://instagram.com/surender._.varma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surender._.varma" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:surendervarma.us@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-surendervarma.us%40gmail.com-informational?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow-ff4f8b?style=flat&logo=instagram&logoColor=white"></a>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=surendervarma1&label=Profile%20views&color=0e75b6&style=flat">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111827,100:0EA5E9&height=120&section=header&text=Build%20•%20Ship%20•%20Optimize&fontSize=34&fontColor=FFFFFF" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surendervarma1&show_icons=true&locale=en&layout=compact" alt="surendervarma1" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surendervarma1&show_icons=true&locale=en" alt="surendervarma1" /></p>
+## About Me
+- 🎓 **M.S. Computer Engineering**, San Diego State University
+- 🔬 Current focus: **Preventing Catastrophic Forgetting on IoT Devices** (continual learning / edge constraints)
+- 💡 Interests: **Edge AI**, **ML systems**, **Networking**, **Databases**, **Full-stack Web**
+- 🧩 I like building projects that are **measurable**, **deployable**, and **performance-aware**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surendervarma1&" alt="surendervarma1" /></p>
+---
+
+## What I’m Working On
+### 🛰️ Catastrophic Forgetting on IoT Devices
+- Continual learning under **tight memory / compute budgets**
+- Exploring strategies like:
+  - rehearsal / replay buffers (resource-aware)
+  - regularization approaches (e.g., EWC-style ideas)
+  - lightweight model adaptation & evaluation pipelines
+
+---
+
+## 🎓 Master's Coursework
+- **Database & Web Programming**
+- **Computer Database Fundamentals**
+- **Scientific Database Techniques**
+- **Computer & Data Networks**
+- **Engineering Optimization**
+- **Information Theory**
+- **Modern Communication Theory I**
+- **VLSI Testing**
+- **Analog Integrated Circuit Design**
+- **Neuromorphic Computing**
+
+---
+
+## 🧰 Skills Snapshot
+**Core:** Data Structures • OOP • Debugging • Profiling • API Design • System Thinking  
+**Databases:** SQL • Schema Design • Query Optimization • Indexing • Transactions  
+**Networking:** TCP/IP • Routing Basics • Network Debugging • Client/Server Systems  
+**ML/Edge:** Model Evaluation • Continual Learning Concepts • Resource-Constrained Deployment
+
+---
+
+## 🧪 Tech Stack (Badges)
+
+### Languages
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-1F2937?style=flat&logo=database&logoColor=white" />
+</p>
+
+### Frameworks / Mobile / Web
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+</p>
+
+### Cloud / DevOps / Tools
+<p>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=111827" />
+</p>
+
+### Databases
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+</p>
+
+---
+
+## 📌 Featured Projects
+> Pin your best repos on GitHub, then list the top 3–6 here.
+
+- **🛰️ Continual Learning on IoT (Catastrophic Forgetting)** — *edge-friendly evaluation + baselines*  
+- **🧱 Database + Web Project** — *schema + API + UI*  
+- **🌐 Networking Project / Labs** — *packet analysis / client-server tooling*  
+
+
+---
+
+## 🗂️ Quick Links
+- 🔗 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/
+- 📬 Email: surendervarma.us@gmail.com
+
+---
+
+## 🤝 Let’s Connect
+If you're working on **Edge AI**, **IoT**, **continual learning**, or **database/web systems**, I’m open to collaboration.
+
+<!-- End -->
